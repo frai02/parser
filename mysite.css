@@ -1,0 +1,26 @@
+span{
+	margin-bottom: 2px;
+	font-size: 24px;
+}
+
+.big {
+	font-size: 28px;
+}
+
+.tip span {
+    margin-left:10px; 
+} 
+img {
+    vertical-align: top;
+    width: 102px;
+    height: 124px;
+}
+
+p{
+    display: block;
+    margin: auto;
+    position: relative;
+    top: -86px;
+    left: 112px;
+    font-size: 20px;
+}
