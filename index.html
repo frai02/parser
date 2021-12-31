@@ -10,7 +10,7 @@
 
 <body>
     <div class="list">
-<a class="item" href="https://tl.rulate.ru//book/46084">
+<a class="item" href="https://tl.rulate.ru/book/46084">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/9/7293.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Unsealing Emptiness / Открытие пустоты</p>
@@ -26,7 +26,23 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/29646">
+<a class="item" href="https://tl.rulate.ru/book/41344">
+<img class="item__img" src="https://tl.rulate.ru//i/book/20/6/26091.jpg" alt ="">
+<div class="item__content">
+<p class="item__title">The Queen of Everything / Королева всего сущего</p>
+<div class="item__info">
+<p>После своего переселения в мир культиваторов Шен Тиан обнаружил, что он может видеть удачливые возможности других людей в их нимбах.Ради собственного блага, Шен Тиан сближается с особо удачливыми культиваторами... В конце концов все поняли, что независимо от того, насколько удачлив был человек, пока он общается с Шен Тианом, перед ним будут откры...</p>
+<ul class="item__details">
+<li><b>Бесплатных глав:</b>555</li>
+<li><b>Всего глав:</b>843</li>
+<li><b>Бесплатных страниц:</b>851</li>
+<li><b>Всего страниц:</b>1702</li>
+<li><b>Рейтинг</b>4,8</li>
+</ul>
+</div>
+</div>
+</a>
+<a class="item" href="https://tl.rulate.ru/book/29646">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/2/3733.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">World's Apocalypse Online / Мировой Апокалипсис Онлайн</p>
@@ -42,7 +58,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/19148">
+<a class="item" href="https://tl.rulate.ru/book/19148">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/8/31529.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Legendary Mechanic / Легендарный механик</p>
@@ -58,7 +74,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/26149">
+<a class="item" href="https://tl.rulate.ru/book/26149">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/8786.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Devious First-Daughter / Коварная Первая Дочь</p>
@@ -74,7 +90,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/17742">
+<a class="item" href="https://tl.rulate.ru/book/17742">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/5/15129.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Nano Mashin / Наномашина</p>
@@ -90,7 +106,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/18947">
+<a class="item" href="https://tl.rulate.ru/book/18947">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/1173.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">My House of Horrors / Мой дом ужасов</p>
@@ -106,7 +122,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/21641">
+<a class="item" href="https://tl.rulate.ru/book/21641">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/2/15799.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Путешествие в Алшамур / Путешествие в Алшамур</p>
@@ -122,7 +138,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/27478">
+<a class="item" href="https://tl.rulate.ru/book/27478">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/7/25946.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Похождения одинокого волка / Похождения одинокого волка</p>
@@ -138,7 +154,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/96744">
+<a class="item" href="https://tl.rulate.ru/book/96744">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/1954.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Douluo Dalu 2 - Unrivaled Tang Sect / Боевой континент 2. Непревзойдённый Клан Тан</p>
@@ -154,7 +170,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/44733">
+<a class="item" href="https://tl.rulate.ru/book/44733">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/8/5388.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Naruto Hatake / 🍜 Наруто Хатаке 🍜✅</p>
@@ -170,7 +186,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/40754">
+<a class="item" href="https://tl.rulate.ru/book/40754">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/2/1601.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Ma'am You Have Been Uncovered / Мэм, вас снова раскрыли</p>
@@ -186,7 +202,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/29116">
+<a class="item" href="https://tl.rulate.ru/book/29116">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/9/19278.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">I Really Want To Go Against The Sky / Я действительно Хочу Пойти Против Небес</p>
@@ -202,7 +218,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/96722">
+<a class="item" href="https://tl.rulate.ru/book/96722">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/22648.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Добро пожаловать / Мир Духовных Питомцев</p>
@@ -218,7 +234,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/23836">
+<a class="item" href="https://tl.rulate.ru/book/23836">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/15147.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Long-awaited Mr Han / Долгожданный господин Хан</p>
@@ -234,7 +250,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/7481">
+<a class="item" href="https://tl.rulate.ru/book/7481">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/23959.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Monster paradise / Рай монстров</p>
@@ -250,7 +266,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/15294">
+<a class="item" href="https://tl.rulate.ru/book/15294">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/27952.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Lord of the Mysteries / Повелитель Тайн</p>
@@ -266,7 +282,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/7353">
+<a class="item" href="https://tl.rulate.ru/book/7353">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/9/8728.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Way of the Devil / Путь Небесного Дьявола</p>
@@ -282,7 +298,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/42765">
+<a class="item" href="https://tl.rulate.ru/book/42765">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/7/7499.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">My Disciples Are All Villains / Все Мои Ученики - Злодеи</p>
@@ -298,7 +314,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/29667">
+<a class="item" href="https://tl.rulate.ru/book/29667">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/5/28917.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Adorable Food Goddess / Очаровательная богиня еды</p>
@@ -314,7 +330,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/11249">
+<a class="item" href="https://tl.rulate.ru/book/11249">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/6/4138.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Quick Transmigration Cannon Fodder’s Record of Counterattacks / Записи Хостов и Игроков</p>
@@ -330,7 +346,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/26490">
+<a class="item" href="https://tl.rulate.ru/book/26490">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/6/29168.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Chrysalis / Хризалида</p>
@@ -346,7 +362,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/1027">
+<a class="item" href="https://tl.rulate.ru/book/1027">
 <img class="item__img" src="https://tl.rulate.ru//i/book/16/9/27114.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">My Disciple Died Yet Again / Мой ученик скончался вновь</p>
@@ -362,7 +378,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/59144">
+<a class="item" href="https://tl.rulate.ru/book/59144">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/7/15019.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Месть сурка / Месть сурка</p>
@@ -378,7 +394,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/35928">
+<a class="item" href="https://tl.rulate.ru/book/35928">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/11/28392.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">48 Hours a Day / 48 часов в сутки</p>
@@ -394,7 +410,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/12626">
+<a class="item" href="https://tl.rulate.ru/book/12626">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/7678.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Tales of Herding Gods / СПБ / Сказания о Пастухе Богов</p>
@@ -410,7 +426,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/60866">
+<a class="item" href="https://tl.rulate.ru/book/60866">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/8/14958.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Онлайн-культивация / Культивация Онлайн</p>
@@ -426,7 +442,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/23907">
+<a class="item" href="https://tl.rulate.ru/book/23907">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/12/26643.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Second Life Ranker / Ранкер, который живет второй раз</p>
@@ -442,7 +458,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/22584">
+<a class="item" href="https://tl.rulate.ru/book/22584">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/10/12237.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">SSS급 자살헌터 / SSS-Class Suicide Hunter / Охотник-самоубийца SSS-класса</p>
@@ -458,7 +474,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/96714">
+<a class="item" href="https://tl.rulate.ru/book/96714">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/5/2931.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The World Online / Earth Online / Мир Онлайн / Земля Онлайн</p>
@@ -474,7 +490,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/15485">
+<a class="item" href="https://tl.rulate.ru/book/15485">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/4/23813.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">三寸人间 / A World Worth Protecting / Мир На Ладони</p>
@@ -490,7 +506,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/35150">
+<a class="item" href="https://tl.rulate.ru/book/35150">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/5/1352.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Tales Of The World Devouring Serpent / Рассказ о пожирающем мир Змее</p>
@@ -506,7 +522,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/23408">
+<a class="item" href="https://tl.rulate.ru/book/23408">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/11/3636.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Black Tech Internet Cafe System / Система Интернет-Кафе Black Tech</p>
@@ -522,7 +538,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/20605">
+<a class="item" href="https://tl.rulate.ru/book/20605">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/3082.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">His Genius Wife is a Superstar / Его Гениальная Жена - Суперзвезда (OR)</p>
@@ -538,7 +554,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/4241">
+<a class="item" href="https://tl.rulate.ru/book/4241">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/12/1579.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Welcome to the class of superiority (Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e) / Добро пожаловать в класс превосходства</p>
@@ -554,7 +570,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/35685">
+<a class="item" href="https://tl.rulate.ru/book/35685">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/3/5114.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Harry Crow / Гарри Поттер - Кроу (ЗАВЕРШЕН)</p>
@@ -570,7 +586,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/26175">
+<a class="item" href="https://tl.rulate.ru/book/26175">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/13417.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Remarried Empress / Императрица Снова Выходит Замуж (KR)</p>
@@ -586,7 +602,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/34661">
+<a class="item" href="https://tl.rulate.ru/book/34661">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/2/1512.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Tree of Aeons (an Isekai Story) / Древо Вечности (Исекай история)</p>
@@ -602,7 +618,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/26441">
+<a class="item" href="https://tl.rulate.ru/book/26441">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/2350.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Scholar's Advanced Technological System / Передовая Технологическая Система Ученого</p>
@@ -618,7 +634,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/53754">
+<a class="item" href="https://tl.rulate.ru/book/53754">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/3/14449.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Mrs. Huo is a Crybaby / Госпожа Хуо - плакса</p>
@@ -634,7 +650,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/33443">
+<a class="item" href="https://tl.rulate.ru/book/33443">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/1/14004.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Under the Oak Tree / Под дубом</p>
@@ -650,7 +666,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/29394">
+<a class="item" href="https://tl.rulate.ru/book/29394">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/9/6764.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Luoyang Brocade / 洛阳锦 / Лоянская парча</p>
@@ -666,7 +682,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/6275">
+<a class="item" href="https://tl.rulate.ru/book/6275">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/2/16363.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Insanely Pampered Wife: Divine Doctor Fifth Young Miss/ The Crazy Adventures of Mystical Doctor / Безумно избалованная жена: Божественный доктор пятая юная мисс</p>
@@ -682,7 +698,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/1303">
+<a class="item" href="https://tl.rulate.ru/book/1303">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/2/26968.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Youjo Senki (幼女戦記) / Военные Хроники Маленькой Девочки: Сага о Злой Тане</p>
@@ -698,7 +714,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/31459">
+<a class="item" href="https://tl.rulate.ru/book/31459">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/11/22566.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The First Order / Первый Орден</p>
@@ -714,7 +730,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/4003">
+<a class="item" href="https://tl.rulate.ru/book/4003">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/9009.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Rebirth of the Thief Who Roаmed The World / Возрождение известного на всю поднебесную вора</p>
@@ -730,7 +746,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/33311">
+<a class="item" href="https://tl.rulate.ru/book/33311">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/1/19144.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Naruto: Time control / В мире Наруто со способностью контролировать время</p>
@@ -746,7 +762,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/341">
+<a class="item" href="https://tl.rulate.ru/book/341">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/8/27421.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">惊悚乐园 / Триллер Парк</p>
@@ -762,7 +778,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/19452">
+<a class="item" href="https://tl.rulate.ru/book/19452">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/29842.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Legend of Swordsman / Легенда о мастере меча</p>
@@ -778,7 +794,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/58055">
+<a class="item" href="https://tl.rulate.ru/book/58055">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/6/21637.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">ОИР. Обычный Инопланетный Разведчик / Обычный Инопланетный Разведчик</p>
@@ -794,7 +810,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/41606">
+<a class="item" href="https://tl.rulate.ru/book/41606">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/6/2833.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The best director / Лучший режиссёр</p>
@@ -810,7 +826,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/16196">
+<a class="item" href="https://tl.rulate.ru/book/16196">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/3/29569.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Omniscient Reader’s Viewpoint / Точка зрения Всеведущего читателя</p>
@@ -826,7 +842,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/3842">
+<a class="item" href="https://tl.rulate.ru/book/3842">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/5/17086.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Taming Master / Мастер Укрощения</p>
@@ -842,7 +858,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/29096">
+<a class="item" href="https://tl.rulate.ru/book/29096">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/9/10451.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Потомок Евы / Потомок Евы</p>
@@ -858,7 +874,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/219">
+<a class="item" href="https://tl.rulate.ru/book/219">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/8/31030.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Demonic King Chases His Wife: The Rebellious Good-for-Nothing Miss / Охота Демонического  короля  на свою  жену:  бунтующая «ни-на-что-не-годная» мисс</p>
@@ -874,7 +890,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/1982">
+<a class="item" href="https://tl.rulate.ru/book/1982">
 <img class="item__img" src="https://tl.rulate.ru//i/book/16/12/27130.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Everybody Loves Large Chests / Все любят большие с...сундуки!</p>
@@ -890,7 +906,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/23391">
+<a class="item" href="https://tl.rulate.ru/book/23391">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/30911.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">転生したらドラゴンの卵だった～最強以外目指さねぇ～/Tensei shi tara doragon no tamago datta ~ saikyō igai mezasa nē ~ / Перерождение в яйцо дракона ～Я стану самым сильным～</p>
@@ -906,7 +922,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/10583">
+<a class="item" href="https://tl.rulate.ru/book/10583">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/11/20146.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">系统之校长来了/System of the Principals / Система школьного директора</p>
@@ -922,7 +938,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/58787">
+<a class="item" href="https://tl.rulate.ru/book/58787">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/6/22965.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Dark Knight (Naruto) / Темный рыцарь (Наруто)</p>
@@ -938,7 +954,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/2902">
+<a class="item" href="https://tl.rulate.ru/book/2902">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/20809.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Princess Medical Doctor / Принцесса-доктор</p>
@@ -954,7 +970,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/31785">
+<a class="item" href="https://tl.rulate.ru/book/31785">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/11/8801.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Simulacrum / Симулякр</p>
@@ -970,7 +986,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/1456">
+<a class="item" href="https://tl.rulate.ru/book/1456">
 <img class="item__img" src="https://tl.rulate.ru//i/book/16/10/251.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Exceptional Godly Thief - The Good for Nothing Seventh Young Lady / Исключительно Благородный Вор - Ни на что негодная Седьмая  Юная Леди</p>
@@ -986,7 +1002,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/13799">
+<a class="item" href="https://tl.rulate.ru/book/13799">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/26921.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Rebirth of Han Yuxi / Перерождение Хан Юси</p>
@@ -1002,7 +1018,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/2400">
+<a class="item" href="https://tl.rulate.ru/book/2400">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/1/16245.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Dark King / Тёмный король</p>
@@ -1018,7 +1034,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/4793">
+<a class="item" href="https://tl.rulate.ru/book/4793">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/2/25589.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Gourmet of Another World / Гурман из другого мира</p>
@@ -1034,7 +1050,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/1138">
+<a class="item" href="https://tl.rulate.ru/book/1138">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/13150.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Mei Gongqing / Мэй Гунцин</p>
@@ -1050,7 +1066,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/9184">
+<a class="item" href="https://tl.rulate.ru/book/9184">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/9/4349.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Dungeon Maker / Создатель подземелий</p>
@@ -1066,7 +1082,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/10111">
+<a class="item" href="https://tl.rulate.ru/book/10111">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/9/15328.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Overgeared / Во всеоружии</p>
@@ -1082,7 +1098,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/13243">
+<a class="item" href="https://tl.rulate.ru/book/13243">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/3/30288.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">MMORPG: Martial Gamer / MMORPG: Игрок боевых искусств</p>
@@ -1098,7 +1114,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/50328">
+<a class="item" href="https://tl.rulate.ru/book/50328">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/3/24496.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Heaven's Coming / Пришествие Небес</p>
@@ -1114,7 +1130,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/9907">
+<a class="item" href="https://tl.rulate.ru/book/9907">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/7/30757.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Возвращение собирателя душ / Возвращение собирателя душ</p>
@@ -1130,7 +1146,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/13434">
+<a class="item" href="https://tl.rulate.ru/book/13434">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/3/19454.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">神達に拾われた男/The Man Picked Up By the Gods (Reboot) / Избранный богами (перезагрузка)</p>
@@ -1146,7 +1162,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/28387">
+<a class="item" href="https://tl.rulate.ru/book/28387">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/10/5537.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Surprise! The supposed talent show was actually–?! / Шок! Это на самом деле шоу талантов?!</p>
@@ -1162,7 +1178,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/20610">
+<a class="item" href="https://tl.rulate.ru/book/20610">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/18997.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">军爷撩妻之情不自禁/Jun Ye Can't Help But Tease His Wife / Цзюнь Е ничего не может поделать с желанием подразнить свою жену</p>
@@ -1178,7 +1194,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/814">
+<a class="item" href="https://tl.rulate.ru/book/814">
 <img class="item__img" src="https://tl.rulate.ru//i/book/16/9/2134.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">末日 領主 / Doom Lord / Хозяин Судьбы</p>
@@ -1194,7 +1210,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/15664">
+<a class="item" href="https://tl.rulate.ru/book/15664">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/16337.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Novel's Extra / Лишний в своей же Истории</p>
@@ -1210,7 +1226,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/27483">
+<a class="item" href="https://tl.rulate.ru/book/27483">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/9/18645.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Kingdoms Bloodline / Родословная королевства</p>
@@ -1226,7 +1242,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/25484">
+<a class="item" href="https://tl.rulate.ru/book/25484">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/12/2232.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Strike Back, Proud Goddess! / Нанеси Ответный Удар, Гордая Богиня!</p>
@@ -1242,7 +1258,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/26564">
+<a class="item" href="https://tl.rulate.ru/book/26564">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/2/11267.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Villainess Reverses the Hourglass /  Злодейка, перевернувшая песочные часы</p>
@@ -1258,7 +1274,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/40096">
+<a class="item" href="https://tl.rulate.ru/book/40096">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/10/14363.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Psychic / Медиум</p>
@@ -1274,7 +1290,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/38656">
+<a class="item" href="https://tl.rulate.ru/book/38656">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/5/7247.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Dark Moon: Rise of The Dark King / Темная Луна: Восстание Короля Тьмы</p>
@@ -1290,7 +1306,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/96725">
+<a class="item" href="https://tl.rulate.ru/book/96725">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/4/14328.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Enchantress Amongst Alchemists: Ghost King’s Wife / Чародейка Среди Алхимиков: Супруга Короля Призрака.</p>
@@ -1306,7 +1322,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/63262">
+<a class="item" href="https://tl.rulate.ru/book/63262">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/10/29526.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Аlien evolution system / Система эволюции пришельцев</p>
@@ -1322,7 +1338,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/27002">
+<a class="item" href="https://tl.rulate.ru/book/27002">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/7/8737.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The CEO and His Little Bunny / Генеральный директор и его маленький зайчик</p>
@@ -1338,7 +1354,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/550">
+<a class="item" href="https://tl.rulate.ru/book/550">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/3/22105.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Sovereign of Judgment / Властелин правосудия</p>
@@ -1354,7 +1370,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/38361">
+<a class="item" href="https://tl.rulate.ru/book/38361">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/6/8786.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Система Реабилитация для первосортного злодея / Система Реабилитация... Убей меня обратно!</p>
@@ -1370,7 +1386,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/23321">
+<a class="item" href="https://tl.rulate.ru/book/23321">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/6/15358.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Princess and the General / Принцесса и генерал</p>
@@ -1386,7 +1402,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/25105">
+<a class="item" href="https://tl.rulate.ru/book/25105">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/5/20404.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The S-Classes That I Raised / S-ранги, Которых Я Воспитал</p>
@@ -1402,7 +1418,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/21991">
+<a class="item" href="https://tl.rulate.ru/book/21991">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/27251.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Until Death? (Refleshed Version) / Пока смерть не разлучит нас? (Перевоплощённая Версия)</p>
@@ -1418,7 +1434,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/6036">
+<a class="item" href="https://tl.rulate.ru/book/6036">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/5/16615.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Monarch of Evernight / Монарх Вечной Ночи</p>
@@ -1434,7 +1450,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/113">
+<a class="item" href="https://tl.rulate.ru/book/113">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/2/13615.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">A Thought Through Eternity / A Will Eternal / Мысль сквозь вечность / Вечная Воля</p>
@@ -1450,7 +1466,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/34690">
+<a class="item" href="https://tl.rulate.ru/book/34690">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/8/26362.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Kuma Kuma Kuma Bear / Ми-ми-мишка</p>
@@ -1466,7 +1482,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/31873">
+<a class="item" href="https://tl.rulate.ru/book/31873">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/11/6759.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">My artist is reborn / Мой артист возродился</p>
@@ -1482,7 +1498,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/14537">
+<a class="item" href="https://tl.rulate.ru/book/14537">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/6/7880.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Enchantress of Medicine, with the Heaven Defying Child, and the Black Belly Father / Волшебница-доктор с ребенком, бросающим вызов небесам и двуличный отец</p>
@@ -1498,7 +1514,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/26517">
+<a class="item" href="https://tl.rulate.ru/book/26517">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/10/8296.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Supreme Magus / Верховный Маг</p>
@@ -1514,7 +1530,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/1457">
+<a class="item" href="https://tl.rulate.ru/book/1457">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/28029.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Ability to Make Town!? ~Let’s Make a Japanese Town in Different World~ / Способность создать город!? ~Давай создадим японский город в другом мире~</p>
@@ -1530,7 +1546,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/15048">
+<a class="item" href="https://tl.rulate.ru/book/15048">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/5/4408.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The City of Terror / Город Страха</p>
@@ -1546,7 +1562,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/13957">
+<a class="item" href="https://tl.rulate.ru/book/13957">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/3/7052.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Reborn into a Hamster for 233 Days / Перерождение в хомяка на 233 Дня</p>
@@ -1562,7 +1578,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/985">
+<a class="item" href="https://tl.rulate.ru/book/985">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/5/21980.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">I Said Make My Abilities Average! / Я Сказала Усредни Мои Способности!</p>
@@ -1578,7 +1594,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/2024">
+<a class="item" href="https://tl.rulate.ru/book/2024">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/3/21903.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Blue Mage Raised by Dragons / Синий маг, воспитанный драконами</p>
@@ -1594,7 +1610,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/10003">
+<a class="item" href="https://tl.rulate.ru/book/10003">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/11/25697.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Phoenix Destiny / Судьба Феникса</p>
@@ -1610,7 +1626,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/4760">
+<a class="item" href="https://tl.rulate.ru/book/4760">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/7/18627.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">弃妇重生/Rebirth of an Abandoned Lady/ / Возрождение одинокой леди</p>
@@ -1626,7 +1642,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/10138">
+<a class="item" href="https://tl.rulate.ru/book/10138">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/6/11004.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">邪祟 / The Haunted / Призраки (ЯОЙ)</p>
@@ -1642,7 +1658,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/12659">
+<a class="item" href="https://tl.rulate.ru/book/12659">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/2/17521.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Hilarious Pampered Consort: Lord I Will Wait for Your Divorce / Веселая Избалованная Супруга: мой Принц, я буду ждать нашего развода</p>
@@ -1658,7 +1674,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/18390">
+<a class="item" href="https://tl.rulate.ru/book/18390">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/26692.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">FFF-Class Trashero / Ублюдочный герой FFF-класса</p>
@@ -1674,7 +1690,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/22231">
+<a class="item" href="https://tl.rulate.ru/book/22231">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/11662.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Isaac / Исаак</p>
@@ -1690,7 +1706,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/18705">
+<a class="item" href="https://tl.rulate.ru/book/18705">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/14348.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Kill the Hero / Убить Героя / 킬더히어로</p>
@@ -1706,7 +1722,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/18329">
+<a class="item" href="https://tl.rulate.ru/book/18329">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/2/6032.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Trash of the Count’s Family / Отброс из семьи Графа</p>
@@ -1722,7 +1738,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/2735">
+<a class="item" href="https://tl.rulate.ru/book/2735">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/9/15246.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Main Character Hides His Strength / Главный герой Скрывает свою Силу</p>
@@ -1738,7 +1754,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/35136">
+<a class="item" href="https://tl.rulate.ru/book/35136">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/10/25462.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">ヘルモード　～やり込み好きのゲーマーは廃設定の異世界で無双する～ / Режим — АД. Хардкорный геймер на самой высокой сложности в другом мире.</p>
@@ -1754,7 +1770,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/27939">
+<a class="item" href="https://tl.rulate.ru/book/27939">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/28845.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Mass Effect: The First War / Mass Effect: Первая Война</p>
@@ -1770,7 +1786,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/1398">
+<a class="item" href="https://tl.rulate.ru/book/1398">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/9/8189.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Raising Children While Being an Adventurer (WN) / Воспитание детей во время приключений</p>
@@ -1786,7 +1802,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/28072">
+<a class="item" href="https://tl.rulate.ru/book/28072">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/5747.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Wild Princess: Marrying an Ugly Prince / Дикая принцесса: замуж за уродливого принца</p>
@@ -1802,7 +1818,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/8139">
+<a class="item" href="https://tl.rulate.ru/book/8139">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/24096.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Anarchic Consort / Своевольная Супруга</p>
@@ -1818,7 +1834,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/5731">
+<a class="item" href="https://tl.rulate.ru/book/5731">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/5/1394.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Rebirth of the Malicious Empress of Military Lineage / Возрождение Злобной Императрицы из Военной Династии</p>
@@ -1834,7 +1850,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/3549">
+<a class="item" href="https://tl.rulate.ru/book/3549">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/9/21169.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">人狼への転生、魔王の副官 / Reincarnated into a Werewolf, the Demon Lord Servants / Перерождение в оборотня, слугу Владыки Демонов</p>
@@ -1850,7 +1866,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/1572">
+<a class="item" href="https://tl.rulate.ru/book/1572">
 <img class="item__img" src="https://tl.rulate.ru//img/placeholder.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Miracle Doctor, Abandoned Daughter: The Sly Emperor’s Wild Beast-Tamer Empress / Хитрый Император и Императрица - Укротительница Диких Зверей</p>
@@ -1866,7 +1882,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/2132">
+<a class="item" href="https://tl.rulate.ru/book/2132">
 <img class="item__img" src="https://tl.rulate.ru//img/placeholder.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Bewitching Prince Spoils His Wife: Genius Doctor Unscrupulous Consort / Околдовавшая принца любимая жена: Призрак принцессы из прошлого тысячелетия</p>
@@ -1882,7 +1898,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/39768">
+<a class="item" href="https://tl.rulate.ru/book/39768">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/8/6795.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">First of All, Let's Hide My Younger Brother / Прежде, давайте спрячем нашего младшего брата</p>
@@ -1898,7 +1914,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/45980">
+<a class="item" href="https://tl.rulate.ru/book/45980">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/9/8209.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">To Love You Again / Снова Любить Тебя</p>
@@ -1914,7 +1930,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/2768">
+<a class="item" href="https://tl.rulate.ru/book/2768">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/21546.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">医毒双绝：冥王的天才宠妃 / The King of Hell’s Genius Pampered Wife / Балованная Жена Короля Ада</p>
@@ -1930,7 +1946,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/23385">
+<a class="item" href="https://tl.rulate.ru/book/23385">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/1357.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Great Doctor Ling Ran / Великий Доктор Лин Жань</p>
@@ -1946,7 +1962,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/6355">
+<a class="item" href="https://tl.rulate.ru/book/6355">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/10/14138.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Jun Jiuling / Цзюнь Цзюлин</p>
@@ -1962,7 +1978,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/29824">
+<a class="item" href="https://tl.rulate.ru/book/29824">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/9/23553.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Everyday I Get Up To See The Villain Stealing The Show / Каждый день я встаю, чтобы увидеть, как злодей крадет все внимание</p>
@@ -1978,7 +1994,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/39297">
+<a class="item" href="https://tl.rulate.ru/book/39297">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/5/22869.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Mages Are Too OP / Слишком сильные маги</p>
@@ -1994,7 +2010,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/12262">
+<a class="item" href="https://tl.rulate.ru/book/12262">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/9/13033.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">History's Number One Founder / Основатель номер один в истории</p>
@@ -2010,7 +2026,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/5231">
+<a class="item" href="https://tl.rulate.ru/book/5231">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/4/28580.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Tuyệt Sắc Quyến Rũ: Quỷ Y Chí Tôn 绝色妖娆：鬼医至尊 鬼医凤九 Mesmerizing Ghost Doctor / Очаровательный Призрачный Доктор</p>
@@ -2026,7 +2042,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/2797">
+<a class="item" href="https://tl.rulate.ru/book/2797">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/1/10955.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">OUROBOROS RECORD ~CIRCUS OF OUBENIEL~ / Записи Уробороса ~Цирк Обениэля~</p>
@@ -2042,7 +2058,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/20045">
+<a class="item" href="https://tl.rulate.ru/book/20045">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/10520.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Monster Pet Evolution/神宠进化 / Эволюция Питомцев-Монстров</p>
@@ -2058,7 +2074,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/3195">
+<a class="item" href="https://tl.rulate.ru/book/3195">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/2/18868.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Chu Wang Fei / Чу Ван Фэй</p>
@@ -2074,7 +2090,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/734">
+<a class="item" href="https://tl.rulate.ru/book/734">
 <img class="item__img" src="https://tl.rulate.ru//i/book/16/8/29173.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Mushoku Tensei / Реинкарнация безработного- основной сюжет и побочные истории</p>
@@ -2090,7 +2106,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/47077">
+<a class="item" href="https://tl.rulate.ru/book/47077">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/10/15708.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Magic of the Force / Магия силы</p>
@@ -2106,7 +2122,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/371">
+<a class="item" href="https://tl.rulate.ru/book/371">
 <img class="item__img" src="https://tl.rulate.ru//i/book/16/7/20369.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Zither Emperor / Император Цитры</p>
@@ -2122,7 +2138,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/28476">
+<a class="item" href="https://tl.rulate.ru/book/28476">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/19685.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Reincarnator / Реинкарнатор</p>
@@ -2138,7 +2154,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/31561">
+<a class="item" href="https://tl.rulate.ru/book/31561">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/2/27086.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Demon's Virtue / Добродетель Демона</p>
@@ -2154,7 +2170,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/20674">
+<a class="item" href="https://tl.rulate.ru/book/20674">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/14409.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Lucia / 루시아 / Люсия</p>
@@ -2170,7 +2186,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/150">
+<a class="item" href="https://tl.rulate.ru/book/150">
 <img class="item__img" src="https://tl.rulate.ru//i/book/16/6/26369.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">요리의 신 / God of Cooking / Бог кулинарии</p>
@@ -2186,7 +2202,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/14729">
+<a class="item" href="https://tl.rulate.ru/book/14729">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/5/10000.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">ГГФ / Гениальный мастер Фэн-шуй</p>
@@ -2202,7 +2218,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/8768">
+<a class="item" href="https://tl.rulate.ru/book/8768">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/9/1501.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Talisman Emperor / Император Талисманов</p>
@@ -2218,7 +2234,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/96706">
+<a class="item" href="https://tl.rulate.ru/book/96706">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/18172.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Transcending the Nine Heavens / За чертой Девяти Небес</p>
@@ -2234,7 +2250,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/45877">
+<a class="item" href="https://tl.rulate.ru/book/45877">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/6/25165.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Rebirth of the Strongest Tycoon / Возрождение самого богатого человека</p>
@@ -2250,7 +2266,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/3443">
+<a class="item" href="https://tl.rulate.ru/book/3443">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/2/23009.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Faraway Paladin / Паладин  Издалека.</p>
@@ -2266,7 +2282,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/37149">
+<a class="item" href="https://tl.rulate.ru/book/37149">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/4/13802.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Re: Level 100 Farmer / Фермер 100-ого уровня</p>
@@ -2282,7 +2298,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/5488">
+<a class="item" href="https://tl.rulate.ru/book/5488">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/10/8786.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Yuusha, Aruiwa Bakemono to Yobareta Shoujo / И имя ей — Герой/Монстр (WN и LN)</p>
@@ -2298,7 +2314,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/21318">
+<a class="item" href="https://tl.rulate.ru/book/21318">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/11/9847.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Most Loving Marriage In History: Master Mu’s Pampered Wife / Самый любвеобильный брак в истории: избалованная жена господина Му</p>
@@ -2314,7 +2330,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/2820">
+<a class="item" href="https://tl.rulate.ru/book/2820">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/6/18644.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Death Mage Who Doesn’t Want a Fourth Time / Маг смерти, не желающий четвертой реинкарнации</p>
@@ -2330,7 +2346,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/12341">
+<a class="item" href="https://tl.rulate.ru/book/12341">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/2/26773.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Rebirth of the Strongest Female Emperor / Перерождение сильнейшей Императрицы</p>
@@ -2346,7 +2362,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/15608">
+<a class="item" href="https://tl.rulate.ru/book/15608">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/7/5452.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Mech Touch / Прикосновение Меха</p>
@@ -2362,7 +2378,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/13714">
+<a class="item" href="https://tl.rulate.ru/book/13714">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/3/10340.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Lord’s Empire \ 领主之兵伐天下 / Империя Повелителя</p>
@@ -2378,7 +2394,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/34849">
+<a class="item" href="https://tl.rulate.ru/book/34849">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/2/21344.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Boss Behind The Game / Создатель игры виртуальной реальности</p>
@@ -2394,7 +2410,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/34018">
+<a class="item" href="https://tl.rulate.ru/book/34018">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/1/24941.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Ричи / Ричи</p>
@@ -2410,7 +2426,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/53486">
+<a class="item" href="https://tl.rulate.ru/book/53486">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/3/27516.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Just a Bystander / Просто Сторонний Наблюдатель</p>
@@ -2426,7 +2442,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/826">
+<a class="item" href="https://tl.rulate.ru/book/826">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/4/3433.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Cultivation Chat Group / Культивирующая чат-группа</p>
@@ -2442,7 +2458,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/4556">
+<a class="item" href="https://tl.rulate.ru/book/4556">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/4/28783.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Princess Wei Yang / Принцесса Вэй Ян</p>
@@ -2458,7 +2474,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/49601">
+<a class="item" href="https://tl.rulate.ru/book/49601">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/12/9267.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Earth's Best Gamer / Лучший Геймер Земли</p>
@@ -2474,7 +2490,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/48767">
+<a class="item" href="https://tl.rulate.ru/book/48767">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/2/11163.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Kiss Goodnight, Mr.Ji / Поцелуй на ночь</p>
@@ -2490,7 +2506,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/29360">
+<a class="item" href="https://tl.rulate.ru/book/29360">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/11/31878.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Сквозь миры. В погоне за магией. / Сквозь миры. В погоне за магией. (Фанфик Хвост Феи)</p>
@@ -2506,7 +2522,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/61384">
+<a class="item" href="https://tl.rulate.ru/book/61384">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/8/16552.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">One Hundred Days / Сто дней</p>
@@ -2522,7 +2538,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/20009">
+<a class="item" href="https://tl.rulate.ru/book/20009">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/17248.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Little Miss Devil: The President's Mischievous Wife / Маленькая Мисс Дьявол: озорная жена президента</p>
@@ -2538,7 +2554,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/2382">
+<a class="item" href="https://tl.rulate.ru/book/2382">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/10422.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Лучше Бога. Хуже Дьявола / Лучше Бога. Хуже Дьявола</p>
@@ -2554,7 +2570,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/55953">
+<a class="item" href="https://tl.rulate.ru/book/55953">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/4/5096.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Янтарноглазая химе / Янтарноглазая химе</p>
@@ -2570,7 +2586,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/27460">
+<a class="item" href="https://tl.rulate.ru/book/27460">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/7/24497.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Horror Camgirl / Омерзительная кэм-герл</p>
@@ -2586,7 +2602,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/1487">
+<a class="item" href="https://tl.rulate.ru/book/1487">
 <img class="item__img" src="https://tl.rulate.ru//img/placeholder.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Жрец, герой и отряд. / Хитрый жрец и героический отряд</p>
@@ -2602,7 +2618,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/10280">
+<a class="item" href="https://tl.rulate.ru/book/10280">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/1/17683.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Valhalla Saga / Сказания о Вальхалле</p>
@@ -2618,7 +2634,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/3697">
+<a class="item" href="https://tl.rulate.ru/book/3697">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/2/7390.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Daoist Gu / Gu Zhen Ren / Reverend Insanity / Gu Daoist Master / Преподобный Гу</p>
@@ -2634,7 +2650,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/18091">
+<a class="item" href="https://tl.rulate.ru/book/18091">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/12/10252.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">New Girl in Town / Новая девочка в городе</p>
@@ -2650,7 +2666,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/13874">
+<a class="item" href="https://tl.rulate.ru/book/13874">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/7/22137.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Feast / Пир</p>
@@ -2666,7 +2682,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/297">
+<a class="item" href="https://tl.rulate.ru/book/297">
 <img class="item__img" src="https://tl.rulate.ru//i/book/16/7/15889.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Stellar Transformations (星辰变 – XīngChénBiàn) / Дорогой Звёзд / Звёздная Трансформация</p>
@@ -2682,7 +2698,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/1643">
+<a class="item" href="https://tl.rulate.ru/book/1643">
 <img class="item__img" src="https://tl.rulate.ru//i/book/16/11/21407.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">错嫁良缘之一代军师, 浅绿 / A mistaken marriage match: A generation of military counselor / Брак по ошибке: Поколение военного советника</p>
@@ -2698,7 +2714,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/28291">
+<a class="item" href="https://tl.rulate.ru/book/28291">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/9755.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Villain's Wife / Жена Злодея</p>
@@ -2714,7 +2730,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/21147">
+<a class="item" href="https://tl.rulate.ru/book/21147">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/4/16952.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Return of the Female Knight / Возвращение девы-рыцаря</p>
@@ -2730,7 +2746,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/7826">
+<a class="item" href="https://tl.rulate.ru/book/7826">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/1/1293.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Yuusha ni Horobosareru Dake no Kantan na Oshigoto Desu / Лёгкая работа - быть тем, кого уничтожит Герой.</p>
@@ -2746,7 +2762,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/55864">
+<a class="item" href="https://tl.rulate.ru/book/55864">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/4/24366.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Epoch: A Berserker's Rise / Эпоха: Восстание Берсеркера (ЛитRPG)</p>
@@ -2762,7 +2778,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/27614">
+<a class="item" href="https://tl.rulate.ru/book/27614">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/10/11799.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Бойня / Бойня</p>
@@ -2778,7 +2794,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/12803">
+<a class="item" href="https://tl.rulate.ru/book/12803">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/1/9456.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">英雄の娘として生まれ変わった英雄は再び英雄を目指す /The hero who has been reborn as the heroes daughter aims to become a hero again / Перерождённый в дочь героев</p>
@@ -2794,7 +2810,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/452">
+<a class="item" href="https://tl.rulate.ru/book/452">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/4778.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">UchiMusume / For my daughter, I might even be able to defeat the demon king / If It’s for My Daughter, I’d Even Defeat a Demon Lord / Ради своей дочери я смогу победить даже короля демонов</p>
@@ -2810,7 +2826,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/19278">
+<a class="item" href="https://tl.rulate.ru/book/19278">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/12/27912.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">元貴族令嬢で未婚の母ですが、娘たちが可愛すぎて冒険者業も苦になりません./Even Though I’m a Former Noble and a Single Mother, My Daughters Are Too Cute and Working as an Adventurer Isn’t Too Much of a Hassle. / Пусть я бывшая дворянка и мать-одиночка, зато мои дочки очень милые, а работа авантюриста не такая уж и скучная.</p>
@@ -2826,7 +2842,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/6804">
+<a class="item" href="https://tl.rulate.ru/book/6804">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/1/515.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Kenkyo, Kenjitsu o Motto ni Ikite Orimasu! / Kenkyo Kenjitsu / Мой девиз - моя жизнь будет скромной и заслуживающей доверия!</p>
@@ -2842,7 +2858,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/1140">
+<a class="item" href="https://tl.rulate.ru/book/1140">
 <img class="item__img" src="https://tl.rulate.ru//i/book/16/10/31989.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Emperor оf Solo Play / Император Одиночной Игры</p>
@@ -2858,7 +2874,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/4609">
+<a class="item" href="https://tl.rulate.ru/book/4609">
 <img class="item__img" src="https://tl.rulate.ru//img/placeholder.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Falling in Love with the Villainess / Влюбиться в Злодейку</p>
@@ -2874,7 +2890,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/14032">
+<a class="item" href="https://tl.rulate.ru/book/14032">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/31898.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Rise of the Undead Legion / Восстание легиона нежити</p>
@@ -2890,7 +2906,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/117">
+<a class="item" href="https://tl.rulate.ru/book/117">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/3520.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Nidome no Yuusha wa Fukushuu no Michi wo Warai Ayumu / Path of Vengeance While Laughing / Сладкая месть</p>
@@ -2906,7 +2922,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/35315">
+<a class="item" href="https://tl.rulate.ru/book/35315">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/1/3706.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Герой по паспорту / Герой по паспорту</p>
@@ -2922,7 +2938,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/53552">
+<a class="item" href="https://tl.rulate.ru/book/53552">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/3/28313.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Варлорд. Темный пакт. / Варлорд!</p>
@@ -2938,7 +2954,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/245">
+<a class="item" href="https://tl.rulate.ru/book/245">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/3/2343.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Forgotten Conqueror / Забытый Завоеватель</p>
@@ -2954,7 +2970,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/51591">
+<a class="item" href="https://tl.rulate.ru/book/51591">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/1/9730.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Diamonds in Wine / Алмазы в Вине</p>
@@ -2970,7 +2986,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/31224">
+<a class="item" href="https://tl.rulate.ru/book/31224">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/11/10899.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Oscillation / Колебание</p>
@@ -2986,7 +3002,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/32932">
+<a class="item" href="https://tl.rulate.ru/book/32932">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/12/30549.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Three Lives Three Worlds, The Pillow Book / Три жизни, три мира: Записки у изголовья</p>
@@ -3002,7 +3018,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/17867">
+<a class="item" href="https://tl.rulate.ru/book/17867">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/5630.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Самый злой вид / Самый злой вид</p>
@@ -3018,7 +3034,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/33484">
+<a class="item" href="https://tl.rulate.ru/book/33484">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/1/1502.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Сказание о дочери дракона / Сказания Таморана: Песнь Сумерек</p>
@@ -3034,7 +3050,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/19654">
+<a class="item" href="https://tl.rulate.ru/book/19654">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/10/14206.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">A Returner's Magic Should Be Special / Магия вернувшегося должна быть особенной</p>
@@ -3050,7 +3066,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/10586">
+<a class="item" href="https://tl.rulate.ru/book/10586">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/20710.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Superstars of Tomorrow / Суперзвезды будущего</p>
@@ -3066,7 +3082,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/32685">
+<a class="item" href="https://tl.rulate.ru/book/32685">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/10/12625.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Vainqueur the Dragon / Дракон Вайнкер</p>
@@ -3082,7 +3098,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/33989">
+<a class="item" href="https://tl.rulate.ru/book/33989">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/1/8271.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Fatal Shot / Смертельный выстрел</p>
@@ -3098,7 +3114,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/37521">
+<a class="item" href="https://tl.rulate.ru/book/37521">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/4/18211.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Pocket Hunting Dimension / Карманное Охотничье Измерение</p>
@@ -3114,7 +3130,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/35236">
+<a class="item" href="https://tl.rulate.ru/book/35236">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/2/1571.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Wizardquest / Квест волшебника (18+)</p>
@@ -3130,7 +3146,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/30132">
+<a class="item" href="https://tl.rulate.ru/book/30132">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/11/3516.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Heroic Wife Reborn / Героическая жена возрождается</p>
@@ -3146,7 +3162,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/6395">
+<a class="item" href="https://tl.rulate.ru/book/6395">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/12/17620.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">REVOLVE / REVOLVE</p>
@@ -3162,7 +3178,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/17217">
+<a class="item" href="https://tl.rulate.ru/book/17217">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/8/28612.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Demon King's Pampered Trophy Consort / Избалованная супруга награда для Короля Демона</p>
@@ -3178,7 +3194,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/8391">
+<a class="item" href="https://tl.rulate.ru/book/8391">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/11/26028.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Unruly Phoenix Xiaoyao / Неуправляемый Феникс Сяояо</p>
@@ -3194,7 +3210,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/96704">
+<a class="item" href="https://tl.rulate.ru/book/96704">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/27039.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Card Follower / The Card Apprentice / Ученик Карты</p>
@@ -3210,7 +3226,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/11531">
+<a class="item" href="https://tl.rulate.ru/book/11531">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/5/30631.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Wild Malicious Consort: Good For Nothing Ninth Miss / Дикая злонамеренная супруга: никчемная Девятая мисс</p>
@@ -3226,7 +3242,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/3555">
+<a class="item" href="https://tl.rulate.ru/book/3555">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/12/18291.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Tempest of the Stellar War / Буря Звёздной Войны</p>
@@ -3242,7 +3258,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/23248">
+<a class="item" href="https://tl.rulate.ru/book/23248">
 <img class="item__img" src="https://tl.rulate.ru//img/placeholder.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Хризалида / Хризалида трилогия</p>
@@ -3258,7 +3274,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/2933">
+<a class="item" href="https://tl.rulate.ru/book/2933">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/1/19294.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Feng Yin Tian Xia | World of Hidden Phoenixes / Мир Скрытых Фениксов</p>
@@ -3274,7 +3290,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/26244">
+<a class="item" href="https://tl.rulate.ru/book/26244">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/10/13334.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Reborn Aristocrat: Return of the Vicious Heiress / Возрожденный Аристократ: Возвращение яростной наследницы</p>
@@ -3290,7 +3306,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/27432">
+<a class="item" href="https://tl.rulate.ru/book/27432">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/7/14565.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Rebirth of a Fashionista: This New Life Is Sooo Last Season / Перерождение модницы: эта новая жизнь настооолько прошлый сезон</p>
@@ -3306,7 +3322,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/32211">
+<a class="item" href="https://tl.rulate.ru/book/32211">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/3/18360.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The President is Being Shameless Again / Бесстыжий президент</p>
@@ -3322,7 +3338,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/35409">
+<a class="item" href="https://tl.rulate.ru/book/35409">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/3/26270.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">My Secretary is a Little Sweet / Мой секретарь немного милашка.</p>
@@ -3338,7 +3354,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/35466">
+<a class="item" href="https://tl.rulate.ru/book/35466">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/3/8896.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Cool CEO and his Model Wife / Крутой генеральный директор и его Модель Жена</p>
@@ -3354,7 +3370,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/19544">
+<a class="item" href="https://tl.rulate.ru/book/19544">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/10/15638.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Flowers Bloom from Battlefield / Цветы, распускающиеся на поле битвы</p>
@@ -3370,7 +3386,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/37815">
+<a class="item" href="https://tl.rulate.ru/book/37815">
 <img class="item__img" src="https://tl.rulate.ru//img/placeholder.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Maiden Of The Splitting Moon / Дева рассекающей луны.</p>
@@ -3386,7 +3402,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/37960">
+<a class="item" href="https://tl.rulate.ru/book/37960">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/4/17586.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Gods Decree / Божий Указ</p>
@@ -3402,7 +3418,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/27425">
+<a class="item" href="https://tl.rulate.ru/book/27425">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/9/19643.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Devil's Sleeping Beauty / The Devil's Sleeping Beauty / Спящая красавица Дьявола</p>
@@ -3418,7 +3434,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/20252">
+<a class="item" href="https://tl.rulate.ru/book/20252">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/9/8655.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Bambi and the Duke / Бэмби и Герцог</p>
@@ -3434,7 +3450,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/8">
+<a class="item" href="https://tl.rulate.ru/book/8">
 <img class="item__img" src="https://tl.rulate.ru//i/book/16/8/19374.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">GOD OF THUNDER / Ba Tian Lei Shen / 霸天雷神 / Бог Грома</p>
@@ -3450,7 +3466,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/4550">
+<a class="item" href="https://tl.rulate.ru/book/4550">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/28174.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Good Student / Хороший ученик</p>
@@ -3466,7 +3482,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/13071">
+<a class="item" href="https://tl.rulate.ru/book/13071">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/3/1399.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Return of the Swallow / Возвращение ласточки</p>
@@ -3482,7 +3498,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/29154">
+<a class="item" href="https://tl.rulate.ru/book/29154">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/9/18521.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Golden Fox with System / Золотой Лис с системой</p>
@@ -3498,7 +3514,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/2380">
+<a class="item" href="https://tl.rulate.ru/book/2380">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/1/25347.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Танец Жизни и Смерти / Великое Поветрие / Из Лекаря в Некроманты</p>
@@ -3514,7 +3530,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/43210">
+<a class="item" href="https://tl.rulate.ru/book/43210">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/7/20480.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Второе рождение / Второе рождение</p>
@@ -3530,7 +3546,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/22">
+<a class="item" href="https://tl.rulate.ru/book/22">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/2/14216.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Xian Ni / Renegade Immortal / Противостояние святого</p>
@@ -3546,7 +3562,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/20163">
+<a class="item" href="https://tl.rulate.ru/book/20163">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/2/20405.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">One Piece Talent System / Ван-Пис: Система Талантов</p>
@@ -3562,7 +3578,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/7642">
+<a class="item" href="https://tl.rulate.ru/book/7642">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/16052.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Kusuriya no Hitorigoto / The Pharmacist's Monologue / Монолог аптекаря</p>
@@ -3578,7 +3594,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/19334">
+<a class="item" href="https://tl.rulate.ru/book/19334">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/12/20703.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Elixir Supplier / Поставщик эликсиров</p>
@@ -3594,7 +3610,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/35161">
+<a class="item" href="https://tl.rulate.ru/book/35161">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/8/16534.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Reincarnated into the world of Naruto / Переродился в мире Наруто</p>
@@ -3610,7 +3626,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/10">
+<a class="item" href="https://tl.rulate.ru/book/10">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/10/28174.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Otherworldly Evil Monarch / Злой монарх</p>
@@ -3626,7 +3642,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/10000">
+<a class="item" href="https://tl.rulate.ru/book/10000">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/2/25473.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Library of Heaven’s Path / Библиотека Небесного Пути</p>
@@ -3642,7 +3658,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/134">
+<a class="item" href="https://tl.rulate.ru/book/134">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/7/10708.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Moon-led Journey Across Another World / Лунный Бог, приключение и другой мир</p>
@@ -3658,7 +3674,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/43405">
+<a class="item" href="https://tl.rulate.ru/book/43405">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/7/2756.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Мародерские дни / Мародерские дни</p>
@@ -3674,7 +3690,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/18438">
+<a class="item" href="https://tl.rulate.ru/book/18438">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/1/22495.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Limitless Lands / Военное ЛитРПГ: Безграничные Земли</p>
@@ -3690,7 +3706,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/22979">
+<a class="item" href="https://tl.rulate.ru/book/22979">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/13979.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">网游之射破苍穹 / Игра покорившая Небеса.</p>
@@ -3706,7 +3722,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/38967">
+<a class="item" href="https://tl.rulate.ru/book/38967">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/5/18242.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Поттер? Пфф нет я Блек. / Блек... Алекс Блек.</p>
@@ -3722,7 +3738,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/25389">
+<a class="item" href="https://tl.rulate.ru/book/25389">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/5/3241.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">科技抽奖大亨 / Технологический магнат</p>
@@ -3738,7 +3754,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/199">
+<a class="item" href="https://tl.rulate.ru/book/199">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/5/3659.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Desolate Era / DE / 莽荒纪 / Повесть о Варваре Цзи в Первобытной Эпохе</p>
@@ -3754,7 +3770,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/27563">
+<a class="item" href="https://tl.rulate.ru/book/27563">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/1/9391.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Красноглазый дьявол / Красноглазый дьявол</p>
@@ -3770,7 +3786,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/12744">
+<a class="item" href="https://tl.rulate.ru/book/12744">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/9/16130.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">나 혼자만 레벨업 / Solo Leveling / Поднятие уровня в одиночку</p>
@@ -3786,7 +3802,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/24629">
+<a class="item" href="https://tl.rulate.ru/book/24629">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/9/15019.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Мир, где мне не рады / Мир, где мне не рады</p>
@@ -3802,7 +3818,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/15">
+<a class="item" href="https://tl.rulate.ru/book/15">
 <img class="item__img" src="https://tl.rulate.ru//i/book/16/6/25678.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Cult of the Sacred Runes / Культ Священных Рун (Приквелл для Сказаний о Демонах и Богах)</p>
@@ -3818,7 +3834,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/1714">
+<a class="item" href="https://tl.rulate.ru/book/1714">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/2/21784.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">WDQK / Martial Universe / Переворот Военного Движения / Воинственная Вселенная</p>
@@ -3834,7 +3850,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/23579">
+<a class="item" href="https://tl.rulate.ru/book/23579">
 <img class="item__img" src="https://tl.rulate.ru//i/book/19/8/26709.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Последняя из рода Блау / Перерождение</p>
@@ -3850,7 +3866,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/491">
+<a class="item" href="https://tl.rulate.ru/book/491">
 <img class="item__img" src="https://tl.rulate.ru//i/book/16/12/19317.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Release that Witch / Освободить ведьму</p>
@@ -3866,7 +3882,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/5251">
+<a class="item" href="https://tl.rulate.ru/book/5251">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/1/28803.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Странная жизнь кота / Странная жизнь кота</p>
@@ -3882,7 +3898,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/17119">
+<a class="item" href="https://tl.rulate.ru/book/17119">
 <img class="item__img" src="https://tl.rulate.ru//i/book/21/9/29514.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Вселенная ИКС / Вселенная ИКС</p>
@@ -3898,7 +3914,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/107">
+<a class="item" href="https://tl.rulate.ru/book/107">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/1/4530.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Coiling Dragon / Извивающийся дракон</p>
@@ -3914,7 +3930,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/13084">
+<a class="item" href="https://tl.rulate.ru/book/13084">
 <img class="item__img" src="https://tl.rulate.ru//i/book/18/6/18747.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">诛仙 / Убийца Богов / Zhu Xian / Jade Dynasty</p>
@@ -3930,7 +3946,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/1095">
+<a class="item" href="https://tl.rulate.ru/book/1095">
 <img class="item__img" src="https://tl.rulate.ru//i/book/16/10/26430.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">Легенда демона / Легенда демона</p>
@@ -3946,7 +3962,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/2684">
+<a class="item" href="https://tl.rulate.ru/book/2684">
 <img class="item__img" src="https://tl.rulate.ru//i/book/17/3/3651.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">To Be A Virtuous Wife / Быть добродетельной женой</p>
@@ -3962,7 +3978,7 @@
 </div>
 </div>
 </a>
-<a class="item" href="https://tl.rulate.ru//book/6649">
+<a class="item" href="https://tl.rulate.ru/book/6649">
 <img class="item__img" src="https://tl.rulate.ru//i/book/20/2/9144.jpg" alt ="">
 <div class="item__content">
 <p class="item__title">The Book Eating Magician / Маг, Поедающий Книги</p>
